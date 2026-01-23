@@ -1,82 +1,121 @@
-<h1>Datenschutzerklärung</h1>
+# Datenschutz / Privacy Policy – SafeLog
 
-<p><strong>Stand:</strong> 9. Januar 2026</p>
+**Stand / Last updated:** 23 January 2026
 
-<h2>1. Verantwortlicher</h2>
-<p>
-Dennis Frese<br>
-Am Urnenfeld 14<br>
-32549 Bad Oeynhausen<br>
-E-Mail: <a href="mailto:dennis@frese.one">dennis@frese.one</a>
-</p>
+---
 
-<h2>2. Überblick: Worum geht es?</h2>
-<p>
-Diese App ist eine Journal-/Tagebuch-App. Standardmäßig werden Einträge und Einstellungen lokal auf Ihrem Gerät gespeichert.
-Eine Übertragung an externe Dienste findet nur statt, wenn Sie bestimmte optionale Funktionen aktivieren (z. B. KI) oder externe Links nutzen (z. B. Spendenlink).
-</p>
+## Deutsch (DE)
 
-<h2>3. Welche Daten verarbeitet die App?</h2>
+### 1. Verantwortlicher
+**Dennis Frese**  
+Am Urnenfeld 14  
+32549 Bad Oeynhausen, Deutschland  
+E-Mail: dennis@frese.one
 
-<h3>3.1 Lokal auf Ihrem Gerät</h3>
-<ul>
-  <li><strong>Journal-Inhalte</strong> (z. B. Titel, Text, Tags, Dankbarkeit, Glaubenssatz, Stimmung/Mood).</li>
-  <li><strong>Einstellungen</strong> (z. B. Sprache, Theme, App-Optionen).</li>
-  <li><strong>App-Sperre / PIN</strong> (falls aktiviert): Sperrstatus und sicherheitsrelevante Informationen zur lokalen Entsperrung.</li>
-  <li><strong>Backups</strong> (falls genutzt): Exportdatei wird an dem Ort gespeichert, den Sie auswählen (lokal/Dateisystem/Share-Ziel).</li>
-</ul>
-<p>
-<strong>Wichtig:</strong> Ohne Aktivierung optionaler Online-Funktionen werden diese Daten nicht an mich übertragen.
-</p>
+### 2. Grundprinzip: Lokal-first
+SafeLog ist eine lokal-first Tagebuch-App. Deine Inhalte bleiben grundsätzlich auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking und keine Werbung.
 
-<h3>3.2 Optionale KI-Funktionen (standardmäßig AUS)</h3>
-<p>
-Wenn Sie KI-Funktionen aktivieren, werden die von Ihnen ausgewählten Inhalte (z. B. Texte aus Einträgen) an den von Ihnen verwendeten KI-Dienst übertragen,
-um Vorschläge/Summaries zu erzeugen. Diese Funktion ist <strong>standardmäßig deaktiviert</strong> und muss durch Sie aktiv eingeschaltet werden.
-</p>
-<ul>
-  <li><strong>Übermittelte Daten:</strong> Ausgewählte Textinhalte/Tags (je nach Funktion), ggf. Metadaten wie Zeitraum (Woche/Monat).</li>
-  <li><strong>Zweck:</strong> Generierung von Zusammenfassungen, Vorschlägen oder Textbausteinen.</li>
-  <li><strong>Rechtsgrundlage:</strong> Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) bzw. Verarbeitung auf Ihren ausdrücklichen Wunsch für diese Funktion.</li>
-  <li><strong>Hinweis:</strong> Sobald Daten an den KI-Dienst übertragen wurden, kann eine nachträgliche „Rückholung“ dort technisch ggf. nicht möglich sein.</li>
-</ul>
+### 3. Welche Daten verarbeitet SafeLog?
+SafeLog verarbeitet Daten, die du innerhalb der App erstellst bzw. bereitstellst, insbesondere:
+- **Journal-Inhalte:** Titel, Text, Datum/Zeitraum, Stimmung, Tags und optionale Felder
+- **Anhänge/Medien:** Bilder, Audio, Video und andere Dateien, die du zu Einträgen hinzufügst
+- **Einstellungen:** Sprache, Theme, App-Lock, sonstige App-Einstellungen
 
-<h3>3.3 Spendenlink (extern)</h3>
-<p>
-In der App kann ein <strong>externer Spendenlink</strong> angeboten werden (z. B. PayPal). Beim Anklicken verlassen Sie die App bzw. werden zu PayPal weitergeleitet.
-Die Zahlungsabwicklung erfolgt ausschließlich durch PayPal. Ich erhalte dabei in der Regel keine Konto- oder Kreditkartendaten, sondern nur eine Bestätigung/Info über eine Spende (abhängig von PayPal-Einstellungen).
-Es gelten die Datenschutzhinweise von PayPal.
-</p>
+Diese Daten werden **lokal auf deinem Gerät** gespeichert, damit die App funktioniert.
 
-<h2>4. Empfänger / Weitergabe</h2>
-<ul>
-  <li><strong>Keine Weitergabe</strong> Ihrer lokalen Journal-Daten an mich.</li>
-  <li><strong>KI-Dienst</strong>: nur nach Aktivierung der KI-Funktion und nur für die von Ihnen ausgelöste Generierung.</li>
-  <li><strong>PayPal</strong>: nur, wenn Sie den Spendenlink nutzen (externer Dienst).</li>
-  <li><strong>App Stores</strong> (z. B. Google Play): Bereitstellung/Distribution der App und Updates über die Plattform.</li>
-</ul>
+### 4. App-Lock & Biometrie
+Wenn du App-Lock aktivierst, kannst du die App mit einer PIN und optional mit Biometrie entsperren.  
+Die biometrische Prüfung erfolgt über das Betriebssystem (Android/iOS). SafeLog erhält keinen Zugriff auf biometrische Rohdaten und speichert keine biometrischen Daten.
 
-<h2>5. Speicherdauer / Löschung</h2>
-<ul>
-  <li>Lokal gespeicherte Journal-Daten verbleiben auf Ihrem Gerät, bis Sie diese in der App löschen oder die App deinstallieren.</li>
-  <li>Exportierte Backups verbleiben an dem Speicherort, den Sie gewählt haben, bis Sie diese dort löschen.</li>
-  <li>Bei aktivierter KI-Funktion richtet sich die Verarbeitung/Speicherung beim KI-Dienst nach dessen Bedingungen.</li>
-</ul>
+### 5. KI-Funktionen (optional, Opt-in)
+KI ist standardmäßig deaktiviert. Wenn du KI aktivierst und eine KI-Aktion nutzt (z. B. Zusammenfassungen/Suggestions), können ausgewählte Textinhalte aus deinen Einträgen (z. B. Titel, Text, Datum/Zeitraum) **über einen Server an OpenAI** übertragen und dort verarbeitet werden, um die gewünschte KI-Funktion bereitzustellen.
 
-<h2>6. Ihre Rechte</h2>
-<p>
-Sie haben – soweit die gesetzlichen Voraussetzungen vorliegen – insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung,
-Datenübertragbarkeit sowie Widerspruch. Außerdem haben Sie das Recht, eine erteilte Einwilligung jederzeit mit Wirkung für die Zukunft zu widerrufen.
-Zudem besteht ein Beschwerderecht bei einer Datenschutzaufsichtsbehörde.
-</p>
+Wichtig:
+- Übertragung erfolgt **nur**, wenn du KI aktivierst und KI-Funktionen nutzt.
+- Externe Dienste (z. B. OpenAI) haben eigene Datenschutzregeln.
+- Je nach Dienst kann eine Verarbeitung auch außerhalb der EU stattfinden.
 
-<h2>7. Datensicherheit</h2>
-<p>
-Ich setze angemessene technische und organisatorische Maßnahmen ein, um Daten zu schützen. Bitte beachten Sie: Die Sicherheit Ihrer Daten hängt auch von der Gerätesicherheit ab (z. B. Gerätesperre, OS-Updates).
-</p>
+### 6. Cloud Sync / Backups (optional)
+Wenn du Cloud Sync aktivierst, werden Backups deiner App-Daten als Datei (z. B. ZIP) bei einem Cloud-Anbieter deiner Wahl gespeichert (z. B. Google Drive, OneDrive, Dropbox).  
+SafeLog betreibt hierfür keinen eigenen Cloud-Server. Es gelten die Datenschutzregeln des jeweiligen Anbieters. Du kannst Cloud Sync jederzeit deaktivieren.
 
-<h2>8. Änderungen</h2>
-<p>
-Diese Datenschutzerklärung kann aktualisiert werden, wenn sich Funktionen oder Datenverarbeitungen ändern.
-</p>
+### 7. Import / Export
+Beim Export erzeugt die App eine Backup-Datei, die du speichern oder teilen kannst. Beim Import liest die App eine von dir ausgewählte Datei ein. Du entscheidest, wo du Backups speicherst und mit wem du sie teilst.
 
+### 8. In-App-Käufe / Abos (Pro)
+Wenn du Pro kaufst, wird die Zahlung über den jeweiligen App-Store abgewickelt (z. B. Google Play / Apple).  
+Ich erhalte nur die Information, dass ein Kauf/Abo aktiv ist, um Pro freizuschalten – **keine** Zahlungs- oder Kreditkartendaten. Es gelten die Datenschutzregeln des Plattformanbieters.
+
+### 9. Keine Werbung, kein Tracking
+SafeLog nutzt keine Werbe-SDKs und keine Analytics- oder Tracking-SDKs.
+
+### 10. Speicherdauer
+Da die Daten lokal gespeichert sind, bestimmst du die Speicherdauer selbst. Du kannst Inhalte in der App löschen und Backups entfernen.  
+Wenn du externe Dienste nutzt (z. B. Cloud-Anbieter oder KI), gelten zusätzlich deren Speicher- und Löschregeln.
+
+### 11. Deine Rechte
+Wenn du Fragen hast oder Rechte nach Datenschutzrecht geltend machen möchtest, kontaktiere mich bitte per E-Mail.  
+Da SafeLog ohne Nutzerkonto und ohne eigenen Server für deine Journaldaten arbeitet, lassen sich viele Rechte praktisch durch **Löschen/Export** direkt in der App umsetzen.
+
+### 12. Hosting dieser Seite (GitHub Pages)
+Diese Datenschutzerklärung wird über GitHub Pages bereitgestellt. Beim Aufruf dieser Seite können durch GitHub technische Zugriffsdaten (z. B. IP-Adresse, Zeitstempel, User-Agent) verarbeitet werden.  
+GitHub Datenschutzerklärung: https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
+
+---
+
+## English (EN)
+
+### 1. Data controller
+**Dennis Frese**  
+Am Urnenfeld 14  
+32549 Bad Oeynhausen, Germany  
+Email: dennis@frese.one
+
+### 2. Principle: local-first
+SafeLog is a local-first journaling app. Your content generally stays on your device. There is no account, no tracking, and no ads.
+
+### 3. What data does SafeLog process?
+SafeLog processes data you create/provide inside the app, in particular:
+- **Journal content:** title, text, date/period, mood, tags, optional fields
+- **Attachments/media:** images, audio, video, and other files you add to entries
+- **Settings:** language, theme, app lock, and other app settings
+
+This data is stored **locally on your device** so the app can work.
+
+### 4. App lock & biometrics
+If you enable App Lock, you can unlock the app using a PIN and optionally biometrics.  
+Biometric verification is handled by the operating system (Android/iOS). SafeLog does not access biometric raw data and does not store biometric data.
+
+### 5. AI features (optional, opt-in)
+AI is disabled by default. If you enable AI and trigger an AI action (e.g., summaries/suggestions), selected text content from your entries (e.g., title, body, date/period) may be transmitted **via a server to OpenAI** and processed there to provide the AI feature.
+
+Important:
+- Transfer occurs **only** when you enable and use AI features.
+- External services (e.g., OpenAI) have their own privacy policies.
+- Depending on the service, processing may also occur outside the EU.
+
+### 6. Cloud Sync / backups (optional)
+If you enable Cloud Sync, backups of your app data are stored as a file (e.g., ZIP) in a cloud provider of your choice (e.g., Google Drive, OneDrive, Dropbox).  
+SafeLog does not operate its own cloud server for this. The respective provider’s privacy rules apply. You can disable Cloud Sync at any time.
+
+### 7. Import / export
+When exporting, the app creates a backup file that you can save or share. When importing, the app reads a file you select. You decide where backups are stored and with whom you share them.
+
+### 8. In-app purchases / subscriptions (Pro)
+If you purchase Pro, payment is processed by the respective app store provider (e.g., Google Play / Apple).  
+I only receive information that a purchase/subscription is active in order to unlock Pro — **no** payment or credit card data. The platform provider’s privacy rules apply.
+
+### 9. No ads, no tracking
+SafeLog does not use advertising SDKs and does not use analytics or tracking SDKs.
+
+### 10. Retention
+Because data is stored locally, you control retention. You can delete content in the app and remove backups.  
+If you use external services (e.g., cloud providers or AI), their retention/deletion policies apply in addition.
+
+### 11. Your rights
+If you have questions or want to exercise data protection rights, please contact me via email.  
+As SafeLog works without an account and without a server-side copy of your journal content, many rights can be exercised directly by **deleting/exporting** within the app.
+
+### 12. Hosting of this page (GitHub Pages)
+This privacy policy is hosted via GitHub Pages. When you access this page, GitHub may process technical access data (e.g., IP address, timestamp, user agent).  
+GitHub Privacy Statement: https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
