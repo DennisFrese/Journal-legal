@@ -17,7 +17,7 @@ Angaben gemäß § 5 DDG
 
 **Diensteanbieter / Verantwortlich für den Inhalt (gem. § 18 Abs. 2 MStV):**  
 Dennis Frese  
-Brökenkamp 1  
+Am Urnenfeld 14
 32549 Bad Oeynhausen  
 Deutschland
 
@@ -37,7 +37,7 @@ Diese Datenschutzerklärung gilt für die mobile App **SafeLog** (Android/iOS) s
 SafeLog ist „local-first“: Deine Tagebuchdaten werden grundsätzlich lokal auf deinem Gerät verarbeitet. Bestimmte **optionale** Funktionen (z. B. KI, Cloud Sync, In-App-Käufe) binden jedoch externe Dienste ein.
 
 ### 2. Verantwortlicher (Art. 4 Nr. 7 DSGVO)
-Dennis Frese, Brökenkamp 1, 32549 Bad Oeynhausen, Deutschland  
+Dennis Frese, Am Urnenfeld 14, 32549 Bad Oeynhausen, Deutschland  
 E-Mail: dennis@frese.one
 
 ### 3. Welche Daten verarbeitet SafeLog?
@@ -63,8 +63,12 @@ Wenn du das nicht möchtest, deaktiviere entsprechende Backup-Funktionen in den 
 Wenn du KI in den Einstellungen aktivierst und eine KI-Funktion auslöst (z. B. Zusammenfassung, Vorschlag, Voice Quick Entry), können **ausgewählte Textinhalte** aus deinen Einträgen übertragen werden (z. B. Titel, Text, relevante Zeiträume/Metadaten; je Feature nur das Erforderliche).
 
 #### 4.2 Wohin wird übertragen?
-1) **AI Proxy Server (von uns betrieben):** `api.frese.one`  
-2) **OpenAI (API-Dienst):** OpenAI OpCo, LLC (Subprozessor/Empfänger im Rahmen der API-Verarbeitung)
+1) **AI Proxy Server (technischer Betrieb als Auftragsverarbeitung):** `api.frese.one`  
+   Der Proxy-Server wird **nicht von uns selbst betrieben**, sondern durch **Leanback IT GmbH**, **Ravensberger Str. 20, 32584 Löhne**, **Deutschland** als **Auftragsverarbeiter** in unserem Auftrag (Art. 28 DSGVO). Es besteht ein entsprechender Auftragsverarbeitungsvertrag (AVV).  
+   Auf dem Proxy-Server wird der Inhalt nur zum Zweck der Weiterleitung und zur technischen Absicherung (z. B. Rate-Limiting/Missbrauchsschutz) verarbeitet.
+
+2) **OpenAI (API-Dienst):** OpenAI OpCo, LLC  
+   OpenAI verarbeitet die Inhalte zur Bereitstellung der angeforderten KI-Funktion (z. B. Zusammenfassungen/Vorschläge) nach den für die API geltenden Bedingungen.
 
 #### 4.3 Technische Metadaten / Logs
 Zur Sicherheit, Missbrauchsprävention, Rate-Limiting sowie Kostenkontrolle können technische Metadaten verarbeitet werden (z. B. IP-Adresse, Zeitpunkt, Request-Größe, Status/Fehlercodes). Diese Daten werden nur so lange gespeichert, wie es für die genannten Zwecke erforderlich ist.
@@ -83,7 +87,7 @@ Nach Angaben von OpenAI können API-Prompts und Outputs standardmäßig bis zu *
 
 ### 5. Voice Quick Entry / Spracherkennung (optional)
 Für Sprachfunktionen nutzt SafeLog die Spracherkennung des Betriebssystems. Dabei kann die Verarbeitung je nach Plattform über Apple/Google-Sprachdienste erfolgen.  
-Wenn zusätzlich KI genutzt wird, wird der erkannte Text (nicht zwingend das Audio) an den AI Proxy Server weitergeleitet (siehe Abschnitt 4).
+Wenn zusätzlich KI genutzt wird, wird der erkannte Text an den AI Proxy Server weitergeleitet (siehe Abschnitt 4).
 
 ---
 
@@ -126,7 +130,7 @@ Wir können diese Datenschutzerklärung aktualisieren, wenn sich Funktionen, Rec
 
 **Service provider / person responsible for content:**  
 Dennis Frese  
-Brökenkamp 1  
+Am Urnenfeld 14
 32549 Bad Oeynhausen  
 Germany
 
@@ -144,7 +148,7 @@ We are not obliged and not willing to participate in consumer dispute resolution
 This policy applies to the **SafeLog** mobile app (Android/iOS) and related online content. SafeLog is “local-first”: your journal data is stored and processed locally on your device by default. Certain **optional** features (e.g., AI, cloud sync, in-app purchases) involve external services.
 
 ### 2. Controller
-Dennis Frese, Brökenkamp 1, 32549 Bad Oeynhausen, Germany  
+Dennis Frese, Am Urnenfeld 14, 32549 Bad Oeynhausen, Germany  
 Email: dennis@frese.one
 
 ### 3. Data processed by SafeLog
@@ -169,8 +173,13 @@ Depending on OS settings, app data may be included in device backups (iCloud/Goo
 When you enable AI and actively trigger an AI feature (summaries, suggestions, voice quick entry, etc.), selected text content may be transmitted (only what is required for the specific feature).
 
 #### 4.2 Where is it sent?
-1) **AI proxy server operated by us:** `api.frese.one`  
-2) **OpenAI (API service):** OpenAI OpCo, LLC
+1) **AI proxy server (operated as a processor):** `api.frese.one`  
+   The proxy server is **not operated by us directly**. It is operated by **Leanback IT GmbH**, **Ravensberger Str. 20, 32584 Löhne**, **Germany** as a **data processor** on our behalf under Art. 28 GDPR. A data processing agreement (DPA) is in place.  
+   Content is processed on the proxy server only to forward the request and to provide technical safeguards (e.g., rate limiting / abuse prevention).
+
+2) **OpenAI (API service):** OpenAI OpCo, LLC  
+   OpenAI processes the content to provide the requested AI feature under the API terms.
+
 
 #### 4.3 Technical metadata / logs
 For security, rate limiting, abuse prevention and cost control, technical metadata (e.g., IP address, timestamp, request size, status/error codes) may be processed and stored for a limited period.
