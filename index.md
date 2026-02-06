@@ -22,7 +22,7 @@ Am Urnenfeld 14
 Deutschland
 
 **Kontakt:**  
-E-Mail: dennis@frese.one
+E-Mail: support@safelog-journal.de
 
 **Streitbeilegung:**  
 Die Europäische Kommission stellte bis zur Abschaltung eine Plattform zur Online-Streitbeilegung (OS) bereit. Diese Plattform ist seit 20.07.2025 außer Betrieb.  
@@ -38,7 +38,7 @@ SafeLog ist „local-first“: Deine Tagebuchdaten werden grundsätzlich lokal a
 
 ### 2. Verantwortlicher (Art. 4 Nr. 7 DSGVO)
 Dennis Frese, Am Urnenfeld 14, 32549 Bad Oeynhausen, Deutschland  
-E-Mail: dennis@frese.one
+E-Mail: support@safelog-journal.de
 
 ### 3. Welche Daten verarbeitet SafeLog?
 
@@ -135,7 +135,7 @@ Am Urnenfeld 14
 Germany
 
 **Contact:**  
-Email: dennis@frese.one
+Email: support@safelog-journal.de
 
 **Dispute resolution:**  
 We are not obliged and not willing to participate in consumer dispute resolution proceedings before a consumer arbitration board.
@@ -149,7 +149,7 @@ This policy applies to the **SafeLog** mobile app (Android/iOS) and related onli
 
 ### 2. Controller
 Dennis Frese, Am Urnenfeld 14, 32549 Bad Oeynhausen, Germany  
-Email: dennis@frese.one
+Email: support@safelog-journal.de
 
 ### 3. Data processed by SafeLog
 
